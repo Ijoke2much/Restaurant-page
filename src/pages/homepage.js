@@ -72,7 +72,7 @@ const homepageExport = function() {
 
   // wrapper css.
   contentWrap.style.cssText = `
-    background:url(/src/images/space-background.jpg);
+    background:url(./images/space-background.jpg);
     display: flex;
     flex-direction: column;
     height: 95%;
